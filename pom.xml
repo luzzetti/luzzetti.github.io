@@ -39,6 +39,7 @@
                                 <imagesdir>./images</imagesdir>
                                 <toc>left</toc>
                                 <icons>font</icons>
+                                <last-update-label>Aggiornata al:</last-update-label>
                             </attributes>
                         </configuration>
                     </execution>

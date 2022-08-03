@@ -2,7 +2,7 @@
 = icon:user[] Dettagli Personali
 
 ****
-//TODO: Inserire una Bio
+Appassionato per l’informatica fin da piccolo quando giocavo con il Commodore 64 di mio fratello; di conseguenza la maggior parte dei miei hobby le si sono sviluppati attorno: dagli approcci alla domotica con l’uso e la programmazione di schede “Arduino” e “Raspberry Pi”, fino alle consolle, i videogiochi e la programmazione, passando per piccoli esperimenti di saldatura.
 ****
 
 Contatti::
@@ -13,8 +13,8 @@ WebSites::
 icon:globe[] HomePage: {url-homepage-Personale}[luzzetti.github.io]
 
 Social Media::
-icon:linkedin[] Linkedin: {uri-linkedin-personale} +
-icon:github[] GitHub: {uri-github-personale} +
+icon:linkedin[] Linkedin: {uri-linkedin-personale}[/in/luzzetti] +
+icon:github[] GitHub: {uri-github-personale}[github.com/luzzetti] +
 
 Recapiti::
 icon:map-marker[] Residenza: {uri-residenza-personale}[{residenza-personale}]
