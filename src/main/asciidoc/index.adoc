@@ -1,6 +1,14 @@
-= Christian Luzzetti
+= Curriculum Vitae
 
+:icons:
+:iconfont-cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/fontawesome.min.css
 
-== Work in progress
+include::definizioni.adoc[]
+include::uris.adoc[]
 
-Attualmente in costruzione
+:leveloffset: +1
+
+<<<
+include::01-dettagli-personali/index.adoc[]
+
+:leveloffset: -1

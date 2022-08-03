@@ -1,0 +1,5 @@
+
+:numeroDiTelefonoPersonale: (+39) 392 81 23 218
+:emailPersonale: Christian.luzzetti@gmail.com
+:sitoWebPersonale: {url-homepage-Personale}[luzzetti.github.io]
+:residenza-personale: Via Orazio Coccanari, 00019, Tivoli

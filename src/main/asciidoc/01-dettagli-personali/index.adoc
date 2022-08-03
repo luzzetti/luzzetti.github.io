@@ -1,0 +1,20 @@
+[[dettagli-personali]]
+= icon:user[] Dettagli Personali
+
+****
+//TODO: Inserire una Bio
+****
+
+Contatti::
+icon:phone[] Telefono: {numeroDiTelefonoPersonale} +
+icon:envelope[] Mail: mailto:{emailPersonale}[{emailPersonale},role=email]
+
+WebSites::
+icon:globe[] HomePage: {url-homepage-Personale}[luzzetti.github.io]
+
+Social Media::
+icon:linkedin[] Linkedin: {uri-linkedin-personale} +
+icon:github[] GitHub: {uri-github-personale} +
+
+Recapiti::
+icon:map-marker[] Residenza: {uri-residenza-personale}[{residenza-personale}]
