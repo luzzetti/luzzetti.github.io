@@ -1,7 +1,9 @@
-= Curriculum Vitae
+= Christian Luzzetti
 
-:icons:
-:iconfont-cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/fontawesome.min.css
+:icons: font
+//:iconfont-cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/fontawesome.min.css
+:toc: left
+:toc-title: Indice
 
 include::definizioni.adoc[]
 include::uris.adoc[]
@@ -10,5 +12,11 @@ include::uris.adoc[]
 
 <<<
 include::01-dettagli-personali/index.adoc[]
+
+<<<
+include::02-esperienze-professionali/index.adoc[]
+
+<<<
+include::03-istruzione-e-formazione/index.adoc[]
 
 :leveloffset: -1

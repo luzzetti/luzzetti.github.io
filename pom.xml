@@ -38,6 +38,7 @@
                                 <source-highlighter>coderay</source-highlighter>
                                 <imagesdir>./images</imagesdir>
                                 <toc>left</toc>
+                                <toc-title>Indice</toc-title>
                                 <icons>font</icons>
                                 <last-update-label>Aggiornata al:</last-update-label>
                             </attributes>

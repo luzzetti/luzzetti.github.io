@@ -4,9 +4,15 @@
 
 :uri-residenza-personale: https://goo.gl/maps/4anrW8CWLwYxin4KA
 
+:url-ised: https://www.ised.it/
+:url-msx: https://www.msxi.com/it/
+
+:url-paolo-savi: https://www.itcsavi.edu.it/
+:url-universita-la-sapienza: https://www.uniroma1.it/it/
+
 // Certificazioni e nanodegrees
-:uri-mongodb-M001-certification-verify: https://university.mongodb.com/course_completion/44ff0d23-4ceb-4ccd-9ce5-20afa52b0ea2
-:uri-vaadin-14-developer-certification-verify: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2115881&authkey=ACSp3mz-jhtlZVc&em=2
-:uri-oracle-javaEE7-certification-verify: https://onedrive.live.com/?authkey=%21AG%2DMP%5FceO7CAJ3g&cid=32AE1ECAB1FCD274&id=32AE1ECAB1FCD274%2113225&parId=32AE1ECAB1FCD274%2113224&o=OneUp
-:uri-git_and_github-certification-verify: https://www.udemy.com/certificate/UC-ee1ac138-5a13-41a3-8143-f0f1ab3bc6f4/
-:uri-spring-and-hibernate-certification-verify: https://www.udemy.com/certificate/UC-b3e34403-0055-4d0c-9456-42ff1b881317/
+:url-form-mongodb-M001-certification-verify: https://university.mongodb.com/course_completion/44ff0d23-4ceb-4ccd-9ce5-20afa52b0ea2
+:url-form-vaadin-14-developer-certification-verify: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2115881&authkey=ACSp3mz-jhtlZVc&em=2
+:url-form-oracle-javaEE7-certification-verify: https://onedrive.live.com/?authkey=%21AG%2DMP%5FceO7CAJ3g&cid=32AE1ECAB1FCD274&id=32AE1ECAB1FCD274%2113225&parId=32AE1ECAB1FCD274%2113224&o=OneUp
+:url-form-git_and_github-certification-verify: https://www.udemy.com/certificate/UC-ee1ac138-5a13-41a3-8143-f0f1ab3bc6f4/
+:url-form-spring-and-hibernate-certification-verify: https://www.udemy.com/certificate/UC-b3e34403-0055-4d0c-9456-42ff1b881317/

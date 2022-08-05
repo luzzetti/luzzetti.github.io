@@ -1,0 +1,41 @@
+= icon:graduation-cap[] Educazione e Formazione
+
+[[certificazioni-e-nanodegrees]]
+== Certificazioni e NanoDegrees
+
+icon:bookmark[] {url-form-mongodb-M001-certification-verify}[M001: MongoDB Basics (MongoDb University)] +
+
+icon:bookmark[] {url-form-vaadin-14-developer-certification-verify}[Vaadin 14 Developer (Vaadin)] +
+
+icon:bookmark[] {url-form-git_and_github-certification-verify}[Git & GitHub (Udemy)] +
+
+icon:bookmark[] {url-form-spring-and-hibernate-certification-verify}[Spring & Hibernate (Udemy)] +
+
+icon:bookmark[] {url-form-oracle-javaEE7-certification-verify}[Developing Applications for the Java EE 7 Platform (Oracle University)]
+
+
+[[background-accademico]]
+== Background Accademico
+
+Corso di Laurea in Informatica::
+icon:calendar[] `2010 - Non Conseguita` +
+icon:university[] {url-universita-la-sapienza}[{universita-la-sapienza}] +
+[.small]#Rinuncia agli studi, con 19 esami sostenuti, su un totale di 22#
+
+Programmatore, Ragioniere e Perito Commerciale::
+icon:calendar[] `2003 - 2009` +
+icon:university[] {url-paolo-savi}[{paolo-savi}]
+
+
+== Lingue Straniere
+
+*Italiano*: Madrelingua. +
+*Inglese*: Avanzato (lettura); Intermedio (parlato, scritto). +
+*Russo*: Principiante
+
+:leveloffset: +1
+
+//<<<
+//include::../10-certificazioni-e-nanodegrees/index.adoc[]
+
+:leveloffset: -1
