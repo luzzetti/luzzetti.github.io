@@ -6,7 +6,7 @@ icon:group[] {url-ised}[{ised}]
 
 HelpDesk e supporto on-site, con reperibilità, presso la sede del 118 Lazio.
 
-* Sviluppo di query SQL su database Oracle, per l’analisi dei dati e la redazione di report giornalieri.
+* Sviluppo di query *SQL* su database Oracle, per l’analisi dei dati e la redazione di report giornalieri.
 * Sviluppo di script Excel VBA, per l’automazione di report.
-* Monitoring e troubleshoot di primo livello su sistemi Unix.
-* Reperibilità per le richieste di assistenza dalle altre centrali della regione (Latina, Rieti, Frosinone, Viterbo). Sia da remoto che on-site
+* Monitoring e troubleshoot di primo livello su *sistemi Unix*.
+* Reperibilità per le richieste di assistenza, sia remota sia on-site, dalle altre centrali della regione (Latina, Rieti, Frosinone, Viterbo).

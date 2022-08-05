@@ -1,0 +1,30 @@
+= icon:wrench[] Competenze personali
+
+[[competenze-linguistiche]]
+== Linguistiche
+
+*_Italiano_*: Madrelingua +
+
+[caption=]
+[cols="1, 1,1,1"]
+[frame=none]
+[grid=none]
+|===
+|               | Lettura  | Parlato       | Scritto
+
+|*_Inglese_*    | Avanzato      | Intermedio    | Intermedio
+|*_Russo_*      | Principiante  | Principiante  | Principiante
+|===
+
+
+[[competenze-professionali]]
+== Professionali
+IMPORTANT: Work in progress
+
+[[competenze-comunicative]]
+== Comunicative
+IMPORTANT: Work in progress
+
+[[competenze-organizzative]]
+== Organizzative
+IMPORTANT: Work in progress

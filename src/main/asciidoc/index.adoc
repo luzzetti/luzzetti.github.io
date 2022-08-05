@@ -4,6 +4,8 @@
 //:iconfont-cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/fontawesome.min.css
 :toc: left
 :toc-title: Indice
+:imagesdir: ../resources/imgs
+:data-uri:
 
 include::definizioni.adoc[]
 include::uris.adoc[]
@@ -18,5 +20,12 @@ include::02-esperienze-professionali/index.adoc[]
 
 <<<
 include::03-istruzione-e-formazione/index.adoc[]
+
+<<<
+include::04-competenze-personali/index.adoc[]
+
+<<<
+include::05-altro/index.adoc[]
+
 
 :leveloffset: -1

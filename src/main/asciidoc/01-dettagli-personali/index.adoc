@@ -1,46 +1,44 @@
 [[dettagli-personali]]
 = icon:user[] Dettagli Personali
 
-****
 [.text-justify]
 Appassionato per l’informatica fin da piccolo quando giocavo con il Commodore 64 di mio fratello; di conseguenza la maggior parte dei miei hobby le si sono sviluppati attorno: dagli approcci alla domotica con l’uso e la programmazione di schede “Arduino” e “Raspberry Pi”, fino alle consolle, i videogiochi e la programmazione, passando per piccoli esperimenti di saldatura.
-****
 
 [caption=]
-[cols="1,4"]
+[cols="1,12"]
 [frame=none]
 [grid=none]
 .Contatti
 |===
-| icon:phone[] Telefono: | {numeroDiTelefonoPersonale}
-| icon:envelope[] Mail: | mailto:{emailPersonale}[{emailPersonale},role=email]
+^| icon:phone[] | {numeroDiTelefonoPersonale}
+^| icon:envelope[] | mailto:{emailPersonale}[{emailPersonale},role=email]
 |===
 
 [caption=]
-[cols="1,4"]
+[cols="1,12"]
 [frame=none]
 [grid=none]
-.WebSites
+.HomePage
 |===
-| icon:globe[] HomePage:  | {url-homepage-Personale}[luzzetti.github.io]
+^| icon:globe[] | {url-homepage-Personale}[luzzetti.github.io]
 |===
 
 [caption=]
-[cols="2,8"]
+[cols="1,12"]
 [frame=none]
 [grid=none]
 .Socials
 |===
-| icon:linkedin[] Linkedin:  | {uri-linkedin-personale}[/in/luzzetti]
-| icon:github[] GitHub: | {uri-github-personale}[github.com/luzzetti]
+^| icon:linkedin[] | {uri-linkedin-personale}[/in/luzzetti]
+^| icon:github[] | {uri-github-personale}[github.com/luzzetti]
 |===
 
 [caption=]
-[cols="1,4"]
+[cols="1,12"]
 [frame=none]
 [grid=none]
-.Recapiti
+.Residenza
 |===
-| icon:map-marker[] Residenza: | {uri-residenza-personale}[{residenza-personale}]
+^| icon:map-marker[] | {uri-residenza-personale}[{residenza-personale}]
 |===
 

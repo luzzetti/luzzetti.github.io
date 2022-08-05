@@ -4,11 +4,11 @@
 icon:calendar[] `Ottobre 2019 - In Corso` +
 icon:group[] {url-ised}[{ised}]
 
-Sviluppo, in team, delle applicazioni utilizzate dall’*Azienda Regionale di Emergenza Sanitaria* di Lazio e Puglia (118).
+Sviluppo, in team, delle applicazioni utilizzate dall’[.underline]#Azienda Regionale di Emergenza Sanitaria# di Lazio e Puglia (118).
 
-* Analisi e sviluppo di applicazioni web, basate su [.underline]#Java EE 7#.
-* Utilizzo di Hibernate come ORM per la gestione dello strato di persistenza
-* Design e tuning di tabelle e query, su Oracle Database 12.
-* Sviluppo del front-end, con l’ausilio di Google Web Toolkit, misto ai più noti HTML e CSS.
-* Deploy degli applicativi su application server WildFly 16
-* Utilizzo dei principali tool del settore, quali: Maven, Jenkins e Subversion
+* Analisi e sviluppo di applicazioni web, basate su *Java EE 7*.
+* Utilizzo di *Hibernate* come ORM per la gestione dello strato di persistenza
+* Design e tuning di tabelle e query, su *Oracle Database* 12.
+* Sviluppo del front-end, con l’ausilio di framework *Javascript* (GWT), misto ai più noti *HTML* e *CSS*.
+* Deploy degli applicativi su application server *WildFly* 16
+* Utilizzo dei principali tool del settore, quali: _Maven, Jenkins e Subversion_

@@ -4,7 +4,7 @@
 icon:calendar[] `Luglio 2018 - Ottobre 2019` +
 icon:group[] {url-msx}[{msx}]
 
-Consulente HelpDesk on-site presso Ford Italia, ossia uno dei clienti dell’azienda.
+Consulente HelpDesk on-site presso [.underline]#Ford Italia#, ossia uno dei clienti dell’azienda.
 
 * Risoluzione di problemi software relativi a Windows 10, all’intero pacchetto office, ed altri programmi proprietari dell’azienda.
 * Risoluzione di problemi di natura hardware su tipici desktop da ufficio, ed altri device generici.

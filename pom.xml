@@ -36,7 +36,7 @@
                             <outputDirectory>${project.basedir}</outputDirectory>
                             <attributes>
                                 <source-highlighter>coderay</source-highlighter>
-                                <imagesdir>./images</imagesdir>
+                                <imagesdir>../resources/imgs</imagesdir>
                                 <toc>left</toc>
                                 <toc-title>Indice</toc-title>
                                 <icons>font</icons>

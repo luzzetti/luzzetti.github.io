@@ -27,17 +27,3 @@ icon:university[] {url-universita-la-sapienza}[{universita-la-sapienza}] +
 Programmatore, Ragioniere e Perito Commerciale::
 icon:calendar[] `2003 - 2009` +
 icon:university[] {url-paolo-savi}[{paolo-savi}]
-
-
-== Lingue Straniere
-
-*Italiano*: Madrelingua. +
-*Inglese*: Avanzato (lettura); Intermedio (parlato, scritto). +
-*Russo*: Principiante
-
-:leveloffset: +1
-
-//<<<
-//include::../10-certificazioni-e-nanodegrees/index.adoc[]
-
-:leveloffset: -1

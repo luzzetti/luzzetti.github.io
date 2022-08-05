@@ -1,0 +1,23 @@
+= icon:rocket[] Altro
+
+== Hobby
+* Mi piacciono le lingue, e cerco di ritagliarmi almeno dieci minuti al giorno per esercitarmi.
+* Nel tempo libero, tengo lezioni per principianti, sui fondamenti della programmazione e della computer science.
+* Ho una forte passione per i viaggi in moto, che cerco di effettuare nei ritagli di tempo libero.
+* Ho partecipato ad alcuni tornei di biliardino
+* Mi piacciono i rompicapo, e i portali di Competitive Programming
+
+== Patenti
+A, B +
+Automunito
+
+== Altro
+* Vincitore della borsa di studio “LazioDisu”, ottenuta il primo anno di università
+* Secondo classificato a un concorso del 2006 organizzato dalla Confartigianato e Camera di commercio di Viterbo, per aver presentato un progetto d'impresa, relativo all’informatizzazione delle scuole
+
+[[Disclaimer]]
+== GDPR
+
+_Autorizzo il trattamento dei miei dati personali presenti nel cv ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 -  “Codice in materia di protezione dei dati personali” e dell’art. 13 GDPR 679/16 – “Regolamento europeo sulla protezione dei dati personali”_
+
+image:Firma.png[Firma,200,,link="https://raw.githubusercontent.com/luzzetti/luzzetti.github.io/master/src/main/resources/imgs/Firma.png"]
