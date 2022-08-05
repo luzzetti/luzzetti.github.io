@@ -3,6 +3,8 @@
 [[certificazioni-e-nanodegrees]]
 == Certificazioni e NanoDegrees
 
+icon:bookmark[] {url-form-oracle-sql-performance-tuning}[Oracle SQL Performance Tuning (Udemy)] +
+
 icon:bookmark[] {url-form-mongodb-M001-certification-verify}[M001: MongoDB Basics (MongoDb University)] +
 
 icon:bookmark[] {url-form-vaadin-14-developer-certification-verify}[Vaadin 14 Developer (Vaadin)] +
