@@ -1,4 +1,4 @@
-= icon:rocket[] Altro
+= icon:plug[] Altro
 
 == Hobby
 * Mi piacciono le lingue, e cerco di ritagliarmi almeno dieci minuti al giorno per esercitarmi.
@@ -11,7 +11,7 @@
 A, B +
 Automunito
 
-== Altro
+== Riconoscimenti
 * Vincitore della borsa di studio “LazioDisu”, ottenuta il primo anno di università
 * Secondo classificato a un concorso del 2006 organizzato dalla Confartigianato e Camera di commercio di Viterbo, per aver presentato un progetto d'impresa, relativo all’informatizzazione delle scuole
 
