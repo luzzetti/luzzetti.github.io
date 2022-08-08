@@ -29,8 +29,8 @@ Appassionato per l’informatica fin da piccolo quando giocavo con il Commodore 
 [grid=none]
 .Socials
 |===
-^| icon:linkedin[] | {uri-linkedin-personale}[/in/luzzetti]
-^| icon:github[] | {uri-github-personale}[github.com/luzzetti]
+^| icon:linkedin[] | {url-linkedin-personale}[/in/luzzetti]
+^| icon:github[] | {url-github-personale}[github.com/luzzetti]
 |===
 
 [caption=]

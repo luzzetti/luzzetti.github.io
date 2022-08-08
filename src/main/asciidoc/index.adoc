@@ -1,16 +1,45 @@
-= Christian Luzzetti
-
-:icons: font
-//:iconfont-cdn: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/fontawesome.min.css
+= CV - Christian Luzzetti
+Ultimo aggiornamento {localdate}
+ifdef::backend-pdf[]
+:toc: macro
+:toc-title: Indice
+endif::[]
+ifdef::backend-html5[]
 :toc: left
 :toc-title: Indice
-:imagesdir: ../resources/imgs
+endif::[]
+:icons: font
+:iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+:linkattrs:
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:attribute-missing: warn
 :data-uri:
+:imagesdir: ../resources/imgs
+:nofooter:
 
 include::definizioni.adoc[]
 include::uris.adoc[]
 
 :leveloffset: +1
+
+ifdef::backend-html5[]
+[.small]#Scarica questo CV in link:resume.pdf[formato PDF]#
+endif::[]
+
+ifdef::backend-pdf[]
+[.text-center]
+*Versione Online: {url-homepage-Personale}* +
+Ultimo Aggiornamento: {localdate}
+
+toc::[]
+
+endif::[]
 
 <<<
 include::01-dettagli-personali/index.adoc[]
@@ -25,7 +54,7 @@ include::03-istruzione-e-formazione/index.adoc[]
 include::04-competenze-personali/index.adoc[]
 
 <<<
-include::05-altro/index.adoc[]
+include::05-varie/index.adoc[]
 
 
 :leveloffset: -1

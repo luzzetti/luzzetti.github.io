@@ -1,6 +1,6 @@
 :url-homepage-Personale: https://luzzetti.github.io
-:uri-linkedin-personale: https://www.linkedin.com/in/luzzetti/
-:uri-github-personale: https://github.com/luzzetti
+:url-linkedin-personale: https://www.linkedin.com/in/luzzetti/
+:url-github-personale: https://github.com/luzzetti
 
 :uri-residenza-personale: https://goo.gl/maps/4anrW8CWLwYxin4KA
 

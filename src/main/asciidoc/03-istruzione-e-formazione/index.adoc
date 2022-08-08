@@ -23,7 +23,7 @@ Corso di Laurea in Informatica::
 icon:calendar[] `2010 - Non Conseguita` +
 icon:university[] {url-universita-la-sapienza}[{universita-la-sapienza}] +
 [.small]#Rinuncia agli studi, con 19 esami sostenuti, su un totale di 22# +
-[.small]#{url-esami-sostenuti}[Vedi esiti esami sostenuti]#
+[.small]#{url-esami-sostenuti}[Vedi esiti esami]#
 
 Programmatore, Ragioniere e Perito Commerciale::
 icon:calendar[] `2003 - 2009` +
