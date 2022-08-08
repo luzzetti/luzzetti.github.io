@@ -3,10 +3,18 @@
 [[competenze-linguistiche]]
 == Linguistiche
 
-*_Italiano_*: Madrelingua +
 
 [caption=]
-[cols="1, 1,1,1"]
+[cols="1,1,1,1"]
+[frame=none]
+[grid=none]
+|===
+| *_Italiano_*  | Madrelingua | |
+|===
+
+.Altre lingue
+[caption=]
+[cols="1,1,1,1"]
 [frame=none]
 [grid=none]
 |===
