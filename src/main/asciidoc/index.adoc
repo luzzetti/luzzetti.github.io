@@ -23,8 +23,8 @@ endif::[]
 :imagesdir: ../resources/imgs
 :nofooter:
 
-include::definizioni.adoc[]
-include::uris.adoc[]
+include::00-risorse/definizioni.adoc[]
+include::00-risorse/uris.adoc[]
 
 :leveloffset: +1
 
