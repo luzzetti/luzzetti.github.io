@@ -33,7 +33,7 @@ HTML, CSS, Bootstrap, GWT, WebSocket, REST, JSON, Postman;
 _Strumenti e Piattaforme_::
 Maven, Jenkins, JIRA, YouTrack, Git, GitHub;
 
-_IDEs_:: IntelliJ, VisualStudioCode;
+_IDEs_:: IntelliJ, Eclipse;
 
 _Documentazione_:: UML, AsciiDoc, LucidChart;
 

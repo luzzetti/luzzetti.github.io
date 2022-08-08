@@ -10,6 +10,8 @@
 :url-paolo-savi: https://www.itcsavi.edu.it/
 :url-universita-la-sapienza: https://www.uniroma1.it/it/
 
+:url-esami-sostenuti: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2113232&authkey=ABUpHZCl7FUncJc&em=2
+
 // Certificazioni e nanodegrees
 :url-form-mongodb-M001-certification-verify: https://university.mongodb.com/course_completion/44ff0d23-4ceb-4ccd-9ce5-20afa52b0ea2
 :url-form-vaadin-14-developer-certification-verify: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2115881&authkey=ACSp3mz-jhtlZVc&em=2
