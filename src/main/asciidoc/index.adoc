@@ -29,7 +29,7 @@ include::uris.adoc[]
 :leveloffset: +1
 
 ifdef::backend-html5[]
-[.small]#Scarica questo CV in link:resume.pdf[formato PDF]#
+[.small]#Scarica questo CV in link:CV_Christian_Luzzetti.pdf[formato PDF]#
 endif::[]
 
 ifdef::backend-pdf[]
