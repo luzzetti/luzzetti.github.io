@@ -4,6 +4,9 @@
 
 :uri-residenza-personale: https://goo.gl/maps/4anrW8CWLwYxin4KA
 
+:url-innen: https://www.innovationengineering.eu/it/
+:url-pno-group: https://www.pno.group/
+:url-ares: https://www.ares118.it/
 :url-ised: https://www.ised.it/
 :url-msx: https://www.msxi.com/it/
 

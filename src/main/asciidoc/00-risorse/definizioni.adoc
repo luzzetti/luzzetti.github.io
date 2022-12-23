@@ -4,6 +4,9 @@
 :residenza-personale: Via Orazio Coccanari, 00019, Tivoli
 
 // Aziende
+:pno-group: Gruppo PNO
+:innen: Innovation Engineering
+:ares: Azienda Regionale di Emergenza Sanitaria
 :ised: Ised S.p.A
 :msx: MSX-International
 

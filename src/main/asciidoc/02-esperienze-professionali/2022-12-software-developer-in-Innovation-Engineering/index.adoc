@@ -1,0 +1,10 @@
+[[_2022-12-software-developer-in-innovation-engineering]]
+= Java Developer @ Innovation Engineering
+
+icon:calendar[] `Dicembre 2022 - In Corso` +
+icon:group[] {url-innen}[{innen}]
+
+Sviluppo di microservizi per le applicazioni utilizzate dal {url-pno-group}[{pno-group}].
+
+* Ulteriori informazioni sulle tecnologie utilizzate, saranno aggiunte in seguito; +
+Giusto il tempo di chiudere qualche ticket :)
