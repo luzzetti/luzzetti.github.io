@@ -30,16 +30,15 @@
 
 _Linguaggi di programmazione_:: Java, SQL, JavaScript, TypeScript;
 
-_Framework Java_:: JavaEE, Hibernate, Spring,
-SpringBoot, Vaadin;
+_Framework Java_:: Spring, SpringBoot, JavaEE, Hibernate, Vaadin;
 
 _Database_:: Oracle, PostgreSQL;
 
 _Sviluppo Web_::
-HTML, CSS, Bootstrap, GWT, WebSocket, REST, JSON, Postman;
+HTML, CSS, Bootstrap, GWT, WebSocket, REST, JSON;
 
 _Strumenti e Piattaforme_::
-Maven, Jenkins, JIRA, YouTrack, Git, GitHub;
+Maven, Gitlab, Liquibase, Docker, SonarQube, Jenkins, JIRA, YouTrack, Git, GitHub;
 
 _IDEs_:: IntelliJ, Eclipse;
 
@@ -48,4 +47,4 @@ _Documentazione_:: UML, AsciiDoc, LucidChart;
 _Middleware_:: WildFly;
 
 [.underline]#Attualmente in fase di studio#::
-Angular, MongoDB
+Angular, Docker

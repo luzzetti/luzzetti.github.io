@@ -4,7 +4,11 @@
 icon:calendar[] `Dicembre 2022 - In Corso` +
 icon:group[] {url-innen}[{innen}]
 
-Sviluppo di microservizi per le applicazioni utilizzate dal {url-pno-group}[{pno-group}].
+Sviluppo di applicazioni web interne, utilizzate dai consulenti del  {url-pno-group}[{gruppo pno}].
 
-* Ulteriori informazioni sulle tecnologie utilizzate, saranno aggiunte in seguito; +
-Giusto il tempo di chiudere qualche ticket :)
+
+* Sviluppo di microservizi con *Spring Boot 3* e relativo ecosistema, su *Java 17*.
+* Utilizzo di *Spring Data-Jpa/Hibernate* come strato di persistenza
+* Design e tuning di tabelle e query, su *PostgreSQL Database* 15.
+* Containerizzazione e Deploy degli applicativi tramite *Docker*
+* Utilizzo di tool accessori, quali: _Maven_, e la suite di strumenti presenti su _Gitlab_

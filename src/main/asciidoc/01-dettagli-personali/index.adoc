@@ -1,6 +1,8 @@
 [[dettagli-personali]]
 = icon:user[] Dettagli Personali
 
+// image::../../resources/imgs/IMG_20221015_144922.jpg[SelfMe,200,200,role=left]
+
 [.text-justify]
 Appassionato per l’informatica fin da piccolo quando giocavo con il Commodore 64 di mio fratello; di conseguenza la maggior parte dei miei hobby le si sono sviluppati attorno: dagli approcci alla domotica con l’uso e la programmazione di schede “Arduino” e “Raspberry Pi”, fino alle consolle, i videogiochi e la programmazione, passando per piccoli esperimenti di saldatura.
 

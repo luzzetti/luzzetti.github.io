@@ -3,7 +3,6 @@
 == Hobby
 * Mi piacciono le lingue, e cerco di ritagliarmi almeno dieci minuti al giorno per esercitarmi.
 * Nel tempo libero, tengo lezioni per principianti, sui fondamenti della programmazione e della computer science.
-* Ho una forte passione per i viaggi in moto, che cerco di effettuare nei ritagli di tempo libero.
 * Ho partecipato ad alcuni tornei di biliardino
 * Mi piacciono i rompicapo, e i portali di Competitive Programming
 
