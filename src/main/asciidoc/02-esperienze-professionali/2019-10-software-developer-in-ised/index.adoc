@@ -4,7 +4,7 @@
 icon:calendar[] `Ottobre 2019 - Dicembre 2022` +
 icon:group[] {url-ised}[{ised}]
 
-Sviluppo, in team, della suite di applicazioni utilizzate dagli infermieri nella centrale operativa dall’ {url-ares}[ares (118)] di Lazio e Puglia.
+Sviluppo, in team, della suite di applicazioni utilizzate dagli infermieri nella centrale operativa dell’ {url-ares}[ares (118)] di Lazio e Puglia.
 
 * Analisi e sviluppo di applicazioni web _Real-Time_, basate su *Java EE 7*.
 * Utilizzo di *Hibernate* come ORM per la gestione dello strato di persistenza
