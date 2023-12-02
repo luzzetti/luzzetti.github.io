@@ -4,7 +4,7 @@
 icon:calendar[] `Dicembre 2022 - In Corso` +
 icon:group[] {url-innen}[{innen}]
 
-Sviluppo di applicazioni web interne, utilizzate dai consulenti del  {url-pno-group}[{pno-group}].
+Sviluppo di applicazioni web interne, utilizzate dai consulenti del  {url-pno-group}[gruppo PNO] .
 
 
 * Sviluppo di microservizi con *Spring Boot 3* e relativo ecosistema, su *Java 17*.
