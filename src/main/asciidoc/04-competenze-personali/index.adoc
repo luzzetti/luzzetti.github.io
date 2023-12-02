@@ -17,11 +17,13 @@
 [cols="1,1,1,1"]
 [frame=none]
 [grid=none]
+[%footer]
 |===
 |               | Lettura  | Parlato       | Scritto
 
 |*_Inglese_*    | Avanzato      | Intermedio    | Intermedio
 |*_Russo_*      | Principiante  | Principiante  | Principiante
+| 3+^.^| [.small]#{url-test-inglese-efset}[Risultati EfSet di Inglese]#
 |===
 
 

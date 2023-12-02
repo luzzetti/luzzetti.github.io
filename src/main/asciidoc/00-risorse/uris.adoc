@@ -23,3 +23,6 @@
 :url-form-oracle-sql-performance-tuning: https://udemy-certificate.s3.amazonaws.com/pdf/UC-37a85113-a384-457c-8e64-24826a8cdb7d.pdf
 :url-form-git_and_github-certification-verify: https://www.udemy.com/certificate/UC-ee1ac138-5a13-41a3-8143-f0f1ab3bc6f4/
 :url-form-spring-and-hibernate-certification-verify: https://www.udemy.com/certificate/UC-b3e34403-0055-4d0c-9456-42ff1b881317/
+
+// Certificati Lingua
+:url-test-inglese-efset: https://www.efset.org/cert/QrWtXb
