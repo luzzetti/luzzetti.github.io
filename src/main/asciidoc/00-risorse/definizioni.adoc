@@ -12,3 +12,4 @@
 
 :paolo-savi: I.T.C. Paolo Savi
 :universita-la-sapienza: La Sapienza - Università di Roma
+:universita-pegaso: Pegaso - Università telematica

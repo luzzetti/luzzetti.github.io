@@ -12,6 +12,7 @@
 
 :url-paolo-savi: https://www.itcsavi.edu.it/
 :url-universita-la-sapienza: https://www.uniroma1.it/it/
+:url-universita-pegaso: https://www.unipegaso.it/lauree-triennali/informatica-per-le-aziende-digitali
 
 :url-esami-sostenuti: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2113232&authkey=ABUpHZCl7FUncJc&em=2
 

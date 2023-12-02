@@ -19,7 +19,11 @@ icon:bookmark[] {url-form-oracle-javaEE7-certification-verify}[Developing Applic
 [[background-accademico]]
 == Background Accademico
 
-Corso di Laurea in Informatica::
+Corso di Laurea in Informatica - Classe L-31::
+icon:calendar[] `2023 - In Corso` +
+icon:university[] {url-universita-pegaso}[{universita-pegaso}] +
+
+Corso di Laurea in Informatica - Classe L-31::
 icon:calendar[] `2010 - Non Conseguita` +
 icon:university[] {url-universita-la-sapienza}[{universita-la-sapienza}] +
 [.small]#Rinuncia agli studi, con 19 esami sostenuti, su un totale di 22# +
