@@ -4,7 +4,8 @@
 // image::../../resources/imgs/IMG_20221015_144922.jpg[SelfMe,200,200,role=left]
 
 [.text-justify]
-Appassionato per l’informatica fin da piccolo quando giocavo con il Commodore 64 di mio fratello; di conseguenza la maggior parte dei miei hobby le si sono sviluppati attorno: dagli approcci alla domotica con l’uso e la programmazione di schede “Arduino” e “Raspberry Pi”, fino alle consolle, i videogiochi e la programmazione, passando per piccoli esperimenti di saldatura.
+Appassionato per l’informatica fin da piccolo quando giocavo con il Commodore 64 di mio fratello; di conseguenza la maggior parte dei miei hobby le si sono sviluppati attorno: dagli approcci alla domotica con l’uso e la programmazione di schede “Arduino” e “Raspberry Pi”, fino alle consolle, i videogiochi e la programmazione. Al momento lavoro full-time come Java Software Developer, sviluppo applicazioni web, debuggo problemi vari, e seguo gli sviluppatori più junior. +
+Nel tempo libero mi piace sperimentare nuove tecnologie e linguaggi per il semplice gusto di ampliare le mie conoscenze.
 
 [caption=]
 [cols="1,12"]

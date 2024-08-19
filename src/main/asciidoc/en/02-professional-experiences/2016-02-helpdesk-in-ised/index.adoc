@@ -1,5 +1,5 @@
 [[_2016-02-helpdesk-in-ised]]
-= HelpDesk IT @ ISED
+= IT HelpDesk @ ISED
 
 icon:calendar[] `February 2016 - July 2018` +
 icon:group[] {url-ised}[{ised}]

@@ -2,8 +2,9 @@
 = icon:user[] Personal Details
 
 [.text-justify]
-
-Passionate about computer science since I was little, when I used to play with my brother's Commodore 64. Consequently, most of my hobbies have developed around it: from approaches to home automation using and programming "Arduino" and "Raspberry Pi" boards, to consoles, video games, and programming, with some small soldering experiments along the way.
+Passionate about computer science since childhood, my interest began with experimenting on a Commodore 64. Over time, I honed my skills in programming, engaging in projects with Arduino and Raspberry Pi.
+Now, as a full-time software engineer specialized in Java, I develop robust software solutions, troubleshoot systems, and mentor junior developers. +
+In my free time, I enjoy experimenting with new technologies and languages to broaden my knowledge, and I am eager to bring my skills and experience to international projects by working abroad.
 
 [caption=]
 [cols="1,12"]
