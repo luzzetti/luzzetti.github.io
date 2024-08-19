@@ -20,7 +20,6 @@ endif::[]
 :includedir: _includes
 :attribute-missing: warn
 :data-uri:
-:imagesdir: ../../resources/imgs
 :nofooter:
 
 include::../shared/definitions.adoc[]

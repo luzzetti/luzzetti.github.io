@@ -19,4 +19,4 @@
 
 _Autorizzo il trattamento dei miei dati personali presenti nel cv ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 -  “Codice in materia di protezione dei dati personali” e dell’art. 13 GDPR 679/16 – “Regolamento europeo sulla protezione dei dati personali”_
 
-image:{docdir}/../../../resources/imgs/Firma.png[Firma,200,,link="https://raw.githubusercontent.com/luzzetti/luzzetti.github.io/master/src/main/resources/imgs/Firma.png"]
+image:{imagesdir}/Firma.png[Firma,200,,link="https://raw.githubusercontent.com/luzzetti/luzzetti.github.io/master/src/main/resources/imgs/Firma.png"]

@@ -37,7 +37,7 @@ _Framework Java_:: Spring, SpringBoot, JavaEE, Hibernate, Vaadin;
 _Database_:: Oracle, PostgreSQL;
 
 _Sviluppo Web_::
-HTML, CSS, Bootstrap, GWT, WebSocket, REST, JSON;
+Angular, HTML, CSS, Bootstrap, WebSocket, REST, JSON, GWT;
 
 _Strumenti e Piattaforme_::
 Maven, Gitlab, Liquibase, Docker, SonarQube, Jenkins, JIRA, YouTrack, Git, GitHub;
@@ -46,7 +46,7 @@ _IDEs_:: IntelliJ, Eclipse;
 
 _Documentazione_:: UML, AsciiDoc, LucidChart;
 
-_Middleware_:: WildFly;
+_Middleware_:: Docker, WildFly;
 
 [.underline]#Attualmente in fase di studio#::
-Angular, Docker
+Go(lang)

@@ -45,7 +45,7 @@
                             <outputDirectory>${project.basedir}/site/it</outputDirectory>
                             <attributes>
                                 <source-highlighter>coderay</source-highlighter>
-                                <imagesdir>../../resources/images</imagesdir>
+                                <imagesdir>../../resources/imgs</imagesdir>
                                 <toc>left</toc>
                                 <toc-title>Indice</toc-title>
                                 <icons>font</icons>
@@ -67,7 +67,7 @@
                             <outputDirectory>${project.basedir}/site/en</outputDirectory>
                             <attributes>
                                 <source-highlighter>coderay</source-highlighter>
-                                <imagesdir>../../resources/images</imagesdir>
+                                <imagesdir>../../resources/imgs</imagesdir>
                                 <toc>left</toc>
                                 <toc-title>Index</toc-title>
                                 <icons>font</icons>
@@ -90,7 +90,7 @@
                             <outputFile>CV_Christian_Luzzetti_Long_eng.pdf</outputFile>
                             <attributes>
                                 <source-highlighter>coderay</source-highlighter>
-                                <imagesdir>../../resources/images</imagesdir>
+                                <imagesdir>../../resources/imgs</imagesdir>
                                 <toc>macro</toc>
                                 <toc-title>Index</toc-title>
                                 <icons>font</icons>
@@ -113,7 +113,7 @@
                             <outputFile>CV_Christian_Luzzetti_Long_ita.pdf</outputFile>
                             <attributes>
                                 <source-highlighter>coderay</source-highlighter>
-                                <imagesdir>../../resources/images</imagesdir>
+                                <imagesdir>../../resources/imgs</imagesdir>
                                 <toc>macro</toc>
                                 <toc-title>Index</toc-title>
                                 <icons>font</icons>

@@ -30,23 +30,23 @@
 [[professional-skills]]
 == Professional
 
-_Linguaggi di programmazione_:: Java, SQL, JavaScript, TypeScript;
+_Programming Languages_:: Java, SQL, JavaScript, TypeScript;
 
-_Framework Java_:: Spring, SpringBoot, JavaEE, Hibernate, Vaadin;
+_Java Frameworks_:: Spring, SpringBoot, JavaEE, Hibernate, Vaadin;
 
 _Database_:: Oracle, PostgreSQL;
 
-_Sviluppo Web_::
-HTML, CSS, Bootstrap, GWT, WebSocket, REST, JSON;
+_Web Development_::
+Angular, HTML, CSS, Bootstrap, WebSocket, REST, JSON, GWT;
 
-_Strumenti e Piattaforme_::
+_Tools and Platforms_::
 Maven, Gitlab, Liquibase, Docker, SonarQube, Jenkins, JIRA, YouTrack, Git, GitHub;
 
 _IDEs_:: IntelliJ, Eclipse;
 
 _Documentazione_:: UML, AsciiDoc, LucidChart;
 
-_Middleware_:: WildFly;
+_Middleware_:: Docker, WildFly;
 
-[.underline]#Attualmente in fase di studio#::
-Angular, Docker
+[.underline]#Now studying#::
+Go(lang),
