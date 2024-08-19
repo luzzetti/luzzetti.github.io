@@ -17,6 +17,8 @@
 :url-esami-sostenuti: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2113232&authkey=ABUpHZCl7FUncJc&em=2
 
 // Certificazioni e nanodegrees
+:url-form-devops-fundamentals: https://onedrive.live.com/?authkey=%21ADtq46%2DkG7DdZRo&id=32AE1ECAB1FCD274%2117290&cid=32AE1ECAB1FCD274&parId=root&parQt=sharedby&o=OneUp
+:url-form-liquibase-fundamentals: https://s3.us-east-1.amazonaws.com/accredible_api_evidence_items/files/1711467/original/16743936361093229424062734743528.pdf
 :url-form-mongodb-M001-certification-verify: https://university.mongodb.com/course_completion/44ff0d23-4ceb-4ccd-9ce5-20afa52b0ea2
 :url-form-vaadin-14-developer-certification-verify: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2115881&authkey=ACSp3mz-jhtlZVc&em=2
 :url-form-oracle-javaEE7-certification-verify: https://onedrive.live.com/?authkey=%21AG%2DMP%5FceO7CAJ3g&cid=32AE1ECAB1FCD274&id=32AE1ECAB1FCD274%2113225&parId=32AE1ECAB1FCD274%2113224&o=OneUp

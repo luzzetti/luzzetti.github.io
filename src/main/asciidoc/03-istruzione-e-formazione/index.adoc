@@ -3,6 +3,10 @@
 [[certificazioni-e-nanodegrees]]
 == Certificazioni e NanoDegrees
 
+icon:bookmark[] {url-form-devops-fundamentals}[DevOps Fundamentals (PeopleCert)] +
+
+icon:bookmark[] {url-form-liquibase-fundamentals}[Liquibase Fundamentals (Liquibase University)] +
+
 icon:bookmark[] {url-form-oracle-sql-performance-tuning}[Oracle SQL Performance Tuning (Udemy)] +
 
 icon:bookmark[] {url-form-mongodb-M001-certification-verify}[M001: MongoDB Basics (MongoDb University)] +
