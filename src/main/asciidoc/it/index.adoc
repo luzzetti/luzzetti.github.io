@@ -20,16 +20,16 @@ endif::[]
 :includedir: _includes
 :attribute-missing: warn
 :data-uri:
-:imagesdir: ../resources/imgs
+:imagesdir: ../../resources/imgs
 :nofooter:
 
-include::00-risorse/definizioni.adoc[]
-include::00-risorse/uris.adoc[]
+include::../shared/definitions.adoc[]
+include::../shared/uris.adoc[]
 
 :leveloffset: +1
 
 ifdef::backend-html5[]
-[.small]#Scarica questo CV in link:CV_Christian_Luzzetti.pdf[formato PDF]#
+[.small]#Scarica questo CV in link:CV_Christian_Luzzetti_Long_ita.pdf[formato PDF]#
 endif::[]
 
 ifdef::backend-pdf[]
@@ -55,6 +55,5 @@ include::04-competenze-personali/index.adoc[]
 
 <<<
 include::05-varie/index.adoc[]
-
 
 :leveloffset: -1

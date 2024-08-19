@@ -1,0 +1,9 @@
+[[_2018-07-it-support-technician-in-msxi]]
+= IT Support Technician @ MSX-i
+
+icon:calendar[] `July 2018 - October 2019` +
+icon:group[] {url-msx}[{msx}]
+
+* Provided on-site HelpDesk support for [.underline]#Ford Italia#, resolving software and hardware issues.
+
+* Automated Excel reporting with VBA scripts, reducing manual reporting time.

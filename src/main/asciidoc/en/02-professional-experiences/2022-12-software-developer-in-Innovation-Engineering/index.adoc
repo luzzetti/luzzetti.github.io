@@ -1,0 +1,12 @@
+[[_2022-12-software-developer-in-innovation-engineering]]
+= Java Developer @ Innen
+
+icon:calendar[] `December 2022 - Ongoing` +
+icon:group[] {url-innen}[{innen}]
+
+* Developed internal web applications for {url-pno-group}[PNO Group consultants] by using Spring Boot 3 on Java 17, enhancing productivity.
+* Developed a service integrating our systems with Microsoft SharePoint, so that generated document could easily be synchronized with OneDrive.
+* Wrote a Keycloak extension, so that the centralized auth-server would be able to authenticate users stored in a legacy CRM
+* Containerized applications using Docker, ensuring streamlined deployment processes.
+* Leveraged Maven and GitLab suite for project management and CI/CD pipelines.
+* Mentored junior developers, conducting code reviews and technical sessions on various arguments to improve team proficiency.

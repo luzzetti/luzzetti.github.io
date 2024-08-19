@@ -1,0 +1,38 @@
+= icon:graduation-cap[] Education and Training
+
+[[certifications-and-nanodegrees]]
+== Certifications e NanoDegrees
+
+icon:bookmark[] {url-form-devops-fundamentals}[DevOps Fundamentals (PeopleCert)] +
+
+icon:bookmark[] {url-form-liquibase-fundamentals}[Liquibase Fundamentals (Liquibase University)] +
+
+icon:bookmark[] {url-form-oracle-sql-performance-tuning}[Oracle SQL Performance Tuning (Udemy)] +
+
+icon:bookmark[] {url-form-mongodb-M001-certification-verify}[M001: MongoDB Basics (MongoDb University)] +
+
+icon:bookmark[] {url-form-vaadin-14-developer-certification-verify}[Vaadin 14 Developer (Vaadin)] +
+
+icon:bookmark[] {url-form-git_and_github-certification-verify}[Git & GitHub (Udemy)] +
+
+icon:bookmark[] {url-form-spring-and-hibernate-certification-verify}[Spring & Hibernate (Udemy)] +
+
+icon:bookmark[] {url-form-oracle-javaEE7-certification-verify}[Developing Applications for the Java EE 7 Platform (Oracle University)]
+
+
+[[academic-background]]
+== Academic Background
+
+Bachelor's Degree in Computer Science::
+icon:calendar[] `2023 - Ongoing` +
+icon:university[] {url-universita-pegaso}[{universita-pegaso}] +
+
+Bachelor's Degree in Computer Science::
+icon:calendar[] `2010 - Withdraw` +
+icon:university[] {url-universita-la-sapienza}[{universita-la-sapienza}] +
+[.small]#Withdrawal from studies, with 19 exams taken out of a total of 22# +
+[.small]#{url-esami-sostenuti}[View exam results]#
+
+Programmer, Accountant, and Commercial Expert::
+icon:calendar[] `2003 - 2009` +
+icon:university[] {url-paolo-savi}[{paolo-savi}]

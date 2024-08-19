@@ -1,0 +1,52 @@
+= icon:wrench[] Personal skills
+
+[[linguistic-skills]]
+== Languages
+
+
+[caption=]
+[cols="1,1,1,1"]
+[frame=none]
+[grid=none]
+|===
+| *_Italiano_*  | Mothertongue | |
+|===
+
+.Other languages
+[caption=]
+[cols="1,1,1,1"]
+[frame=none]
+[grid=none]
+[%header%footer]
+|===
+|               | Reading  | Speaking       | Writing
+
+|*_English_*    | Advanced      | Intermediate    | Intermediate
+|*_Russian_*      | Beginner  | Beginner  | Beginner
+4+^.^| [.small]#{url-test-inglese-efset}[EfSet english results]#
+|===
+
+
+[[professional-skills]]
+== Professional
+
+_Linguaggi di programmazione_:: Java, SQL, JavaScript, TypeScript;
+
+_Framework Java_:: Spring, SpringBoot, JavaEE, Hibernate, Vaadin;
+
+_Database_:: Oracle, PostgreSQL;
+
+_Sviluppo Web_::
+HTML, CSS, Bootstrap, GWT, WebSocket, REST, JSON;
+
+_Strumenti e Piattaforme_::
+Maven, Gitlab, Liquibase, Docker, SonarQube, Jenkins, JIRA, YouTrack, Git, GitHub;
+
+_IDEs_:: IntelliJ, Eclipse;
+
+_Documentazione_:: UML, AsciiDoc, LucidChart;
+
+_Middleware_:: WildFly;
+
+[.underline]#Attualmente in fase di studio#::
+Angular, Docker

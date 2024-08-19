@@ -1,0 +1,20 @@
+= icon:plug[] Miscellaneous
+
+== Hobbies
+* I like languages, and I try to actively train at least 10 minutes every day
+* In my spare time, I've given beginner-level lessons about programming and computer science fundamentals
+* I took park on few table-football tournaments
+
+== Driving license
+* A, B
+
+== Other
+* Winner of the "LazioDisu" scholarship, obtained in the first year of university.
+* Second place in a competition held in 2006 by Confartigianato and the Chamber of Commerce of Viterbo, for presenting a business project regarding the informatization of schools
+
+[[Disclaimer]]
+== GDPR
+
+_I authorize the processing of my personal data pursuant to Legislative Decree 101/2018 and art. 13 GDPR (EU Regulation 2016/679) for the purposes of personnel research and selection._
+
+image:{docdir}/../../../resources/imgs/Firma.png[Firma,200,,link="https://raw.githubusercontent.com/luzzetti/luzzetti.github.io/master/src/main/resources/imgs/Firma.png"]

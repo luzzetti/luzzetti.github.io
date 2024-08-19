@@ -1,0 +1,14 @@
+[[professional-experiences]]
+= icon:suitcase[] Professional Experiences
+
+:leveloffset: +1
+
+include::./2022-12-software-developer-in-Innovation-Engineering/index.adoc[]
+
+include::./2019-10-software-developer-in-ised/index.adoc[]
+
+include::./2018-07-it-support-technician-in-msxi/index.adoc[]
+
+include::./2016-02-helpdesk-in-ised/index.adoc[]
+
+:leveloffset: -1

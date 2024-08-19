@@ -1,0 +1,45 @@
+[[personal-details]]
+= icon:user[] Personal Details
+
+[.text-justify]
+
+Passionate about computer science since I was little, when I used to play with my brother's Commodore 64. Consequently, most of my hobbies have developed around it: from approaches to home automation using and programming "Arduino" and "Raspberry Pi" boards, to consoles, video games, and programming, with some small soldering experiments along the way.
+
+[caption=]
+[cols="1,12"]
+[frame=none]
+[grid=none]
+.Contatti
+|===
+^| icon:phone[] | {numeroDiTelefonoPersonale}
+^| icon:envelope[] | mailto:{emailPersonale}[{emailPersonale},role=email]
+|===
+
+[caption=]
+[cols="1,12"]
+[frame=none]
+[grid=none]
+.HomePage
+|===
+^| icon:globe[] | {url-homepage-Personale}[luzzetti.github.io]
+|===
+
+[caption=]
+[cols="1,12"]
+[frame=none]
+[grid=none]
+.Socials
+|===
+^| icon:linkedin[] | {url-linkedin-personale}[/in/luzzetti]
+^| icon:github[] | {url-github-personale}[github.com/luzzetti]
+|===
+
+[caption=]
+[cols="1,12"]
+[frame=none]
+[grid=none]
+.Residenza
+|===
+^| icon:map-marker[] | {uri-residenza-personale}[{residenza-personale}]
+|===
+

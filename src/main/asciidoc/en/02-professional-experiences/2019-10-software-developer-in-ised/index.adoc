@@ -1,0 +1,17 @@
+[[_2019-10-software-developer-in-ised]]
+= Full Stack Developer @ ISED
+
+icon:calendar[] `October 2019 - December 2022` +
+icon:group[] {url-ised}[{ised}]
+
+* Collaborated on real-time web applications for the Lazio and Puglia 118 {url-ares}[emergency response centers].
+
+* Refactored JPA/Hibernate code to eliminate well-known problems, significantly improving performance.
+
+* Implemented Hexagonal architecture, enhancing modularity and testability of applications.
+
+* Tuned Oracle database by using indexes and partitioned-tables, achieving a great reduction in query response time
+
+* Designed front-end interfaces using GWT, HTML, and CSS, improving user experience and avoiding the need to learn a different programming language.
+
+* Managed deployment on WildFly 16, ensuring application stability and performance.

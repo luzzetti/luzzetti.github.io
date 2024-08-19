@@ -1,0 +1,59 @@
+= CV - Christian Luzzetti
+Last update {localdate}
+ifdef::backend-pdf[]
+:toc: macro
+:toc-title: Indice
+endif::[]
+ifdef::backend-html5[]
+:toc: left
+:toc-title: Index
+endif::[]
+:icons: font
+:iconfont-cdn: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+:linkattrs:
+:idprefix:
+:idseparator: -
+:sectanchors:
+:sectlink:
+:experimental:
+:source-language: asciidoc
+:includedir: _includes
+:attribute-missing: warn
+:data-uri:
+:imagesdir: ../../resources/imgs
+:nofooter:
+
+include::../shared/definitions.adoc[]
+include::../shared/uris.adoc[]
+
+:leveloffset: +1
+
+ifdef::backend-html5[]
+[.small]#Download this CV in link:CV_Christian_Luzzetti_Long_eng.pdf[PDF format]#
+endif::[]
+
+ifdef::backend-pdf[]
+[.text-center]
+*Online Version: {url-homepage-Personale}* +
+Last update: {localdate}
+
+toc::[]
+
+endif::[]
+
+<<<
+include::01-personal-details/index.adoc[]
+
+<<<
+include::02-professional-experiences/index.adoc[]
+
+<<<
+include::03-education-and-training/index.adoc[]
+
+<<<
+include::04-personal-skills/index.adoc[]
+
+<<<
+include::05-varie/index.adoc[]
+
+:leveloffset: -1

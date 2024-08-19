@@ -1,0 +1,9 @@
+[[_2016-02-helpdesk-in-ised]]
+= HelpDesk IT @ ISED
+
+icon:calendar[] `February 2016 - July 2018` +
+icon:group[] {url-ised}[{ised}]
+
+* Offered on-site IT support for Lazio {url-ares}[ambulance emergency services], handling Unix systems and Oracle databases.
+
+* Developed and automated report generation with SQL queries and Excel VBA, increasing efficiency and minimizing human errors.
