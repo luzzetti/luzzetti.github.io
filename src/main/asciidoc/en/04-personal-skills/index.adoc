@@ -44,7 +44,7 @@ Maven, Gitlab, Liquibase, Docker, SonarQube, Jenkins, JIRA, YouTrack, Git, GitHu
 
 _IDEs_:: IntelliJ, Eclipse;
 
-_Documentazione_:: UML, AsciiDoc, LucidChart;
+_Documentation_:: UML, AsciiDoc, LucidChart;
 
 _Middleware_:: Docker, WildFly;
 
