@@ -14,15 +14,15 @@
 :url-universita-la-sapienza: https://www.uniroma1.it/it/
 :url-universita-pegaso: https://www.unipegaso.it/lauree-triennali/informatica-per-le-aziende-digitali
 
-:url-esami-sostenuti: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2113232&authkey=ABUpHZCl7FUncJc&em=2
+:url-esami-sostenuti: https://drive.google.com/file/d/1Wzk_PcWSoK6nSxuj7kKswiqva43AxkSR/view?usp=sharing
 
 // Certificazioni e nanodegrees
-:url-form-devops-fundamentals: https://onedrive.live.com/?authkey=%21ADtq46%2DkG7DdZRo&id=32AE1ECAB1FCD274%2117290&cid=32AE1ECAB1FCD274&parId=root&parQt=sharedby&o=OneUp
+:url-form-devops-fundamentals: https://drive.google.com/file/d/1X6Vfk-5mjGHFoRWbZYkXeEzYI3eBd6Km/view?usp=sharing
 :url-form-liquibase-fundamentals: https://s3.us-east-1.amazonaws.com/accredible_api_evidence_items/files/1711467/original/16743936361093229424062734743528.pdf
-:url-form-javascript-algorithm-and-data-structures: https://no.op
+:url-form-javascript-algorithm-and-data-structures: https://drive.google.com/file/d/1X8MNjWYj8WyBfMYNaKN3EJuRkK9X6Woy/view?usp=drive_link
 :url-form-mongodb-M001-certification-verify: https://university.mongodb.com/course_completion/44ff0d23-4ceb-4ccd-9ce5-20afa52b0ea2
-:url-form-vaadin-14-developer-certification-verify: https://onedrive.live.com/embed?cid=32AE1ECAB1FCD274&resid=32AE1ECAB1FCD274%2115881&authkey=ACSp3mz-jhtlZVc&em=2
-:url-form-oracle-javaEE7-certification-verify: https://onedrive.live.com/?authkey=%21AG%2DMP%5FceO7CAJ3g&cid=32AE1ECAB1FCD274&id=32AE1ECAB1FCD274%2113225&parId=32AE1ECAB1FCD274%2113224&o=OneUp
+:url-form-vaadin-14-developer-certification-verify: https://drive.google.com/file/d/1X4EpSvqh2M58_4CLTTpm8Dbnp6UQXnw1/view?usp=sharing
+:url-form-oracle-javaEE7-certification-verify: https://drive.google.com/file/d/1Woj2tsu8GoaH1YuwyllCxJOR_H0CvtbH/view?usp=sharing
 :url-form-oracle-sql-performance-tuning: https://udemy-certificate.s3.amazonaws.com/pdf/UC-37a85113-a384-457c-8e64-24826a8cdb7d.pdf
 :url-form-git_and_github-certification-verify: https://www.udemy.com/certificate/UC-ee1ac138-5a13-41a3-8143-f0f1ab3bc6f4/
 :url-form-spring-and-hibernate-certification-verify: https://www.udemy.com/certificate/UC-b3e34403-0055-4d0c-9456-42ff1b881317/
