@@ -1,5 +1,5 @@
 [[_2022-12-software-developer-in-innovation-engineering]]
-= Java Developer @ Innen
+= Software Engineer @ Innen
 
 icon:calendar[] `December 2022 - Ongoing` +
 icon:group[] {url-innen}[{innen}]
