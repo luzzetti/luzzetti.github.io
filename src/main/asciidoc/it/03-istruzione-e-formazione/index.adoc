@@ -1,11 +1,13 @@
 = icon:graduation-cap[] Educazione e Formazione
 
 [[certificazioni-e-nanodegrees]]
-== Certificazioni e NanoDegrees
+== Certificazioni e Corsi
 
 icon:bookmark[] {url-form-devops-fundamentals}[DevOps Fundamentals (PeopleCert)] +
 
 icon:bookmark[] {url-form-liquibase-fundamentals}[Liquibase Fundamentals (Liquibase University)] +
+
+icon:bookmark[] {url-form-javascript-algorithm-and-data-structures}[Javascript Algorithm & Data Structures (FreeCodeCamp)] +
 
 icon:bookmark[] {url-form-oracle-sql-performance-tuning}[Oracle SQL Performance Tuning (Udemy)] +
 

@@ -9,7 +9,7 @@
 [frame=none]
 [grid=none]
 |===
-| *_Italiano_*  | Mothertongue | |
+| *_Italiano_*  | Native | |
 |===
 
 .Other languages

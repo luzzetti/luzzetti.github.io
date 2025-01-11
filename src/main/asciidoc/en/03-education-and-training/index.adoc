@@ -1,13 +1,15 @@
 = icon:graduation-cap[] Education and Training
 
 [[certifications-and-nanodegrees]]
-== Certifications e NanoDegrees
+== Certifications & Courses
 
 icon:bookmark[] {url-form-devops-fundamentals}[DevOps Fundamentals (PeopleCert)] +
 
 icon:bookmark[] {url-form-liquibase-fundamentals}[Liquibase Fundamentals (Liquibase University)] +
 
 icon:bookmark[] {url-form-oracle-sql-performance-tuning}[Oracle SQL Performance Tuning (Udemy)] +
+
+icon:bookmark[] {url-form-javascript-algorithm-and-data-structures}[Javascript Algorithm & Data Structures (FreeCodeCamp)] +
 
 icon:bookmark[] {url-form-mongodb-M001-certification-verify}[M001: MongoDB Basics (MongoDb University)] +
 
@@ -19,13 +21,12 @@ icon:bookmark[] {url-form-spring-and-hibernate-certification-verify}[Spring & Hi
 
 icon:bookmark[] {url-form-oracle-javaEE7-certification-verify}[Developing Applications for the Java EE 7 Platform (Oracle University)]
 
-
 [[academic-background]]
 == Academic Background
 
-Bachelor's Degree in Computer Science::
-icon:calendar[] `2023 - Ongoing` +
-icon:university[] {url-universita-pegaso}[{universita-pegaso}] +
+// Bachelor's Degree in Computer Science::
+// icon:calendar[] `2023 - Ongoing` +
+// icon:university[] {url-universita-pegaso}[{universita-pegaso}] +
 
 Bachelor's Degree in Computer Science::
 icon:calendar[] `2010 - Withdraw` +
