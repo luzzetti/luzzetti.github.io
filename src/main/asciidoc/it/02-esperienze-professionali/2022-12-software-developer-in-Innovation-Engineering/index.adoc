@@ -4,11 +4,9 @@
 icon:calendar[] `Dicembre 2022 - In Corso` +
 icon:group[] {url-innen}[{innen}]
 
-Sviluppo di applicazioni web interne, utilizzate dai consulenti del  {url-pno-group}[gruppo PNO] .
-
-
-* Sviluppo di microservizi con *Spring Boot 3* e relativo ecosistema, su *Java 17*.
-* Utilizzo di *Spring Data-Jpa/Hibernate* come strato di persistenza
-* Design e tuning di tabelle e query, su *PostgreSQL Database* 15.
-* Containerizzazione e Deploy degli applicativi tramite *Docker*
-* Utilizzo di tool accessori, quali: _Maven_, e la suite di strumenti presenti su _Gitlab_
+* Sviluppo di applicazioni web e microservizi, utilizzate dai consulenti {url-pno-group}[PNO Group] utilizzando Spring Boot 3 su Java 17.
+* Sviluppo di un servizio di integrazione tra i nostri sistemi e Microsoft SharePoint, permettendo la sincronizzazione automatica dei documenti generati con OneDrive.
+* Progettata e implementata un'estensione custom di Keycloak, abilitando l'autenticazione unificata (Single Sign-on) nell'ecosistema applicativo aziendale.
+* Containerizzate le applicazioni utilizzando Docker, garantendo processi di deployment ottimizzati.
+* Utilizzato Maven e la suite GitLab per la gestione dei progetti e pipeline CI/CD.
+* Svolte attività di mentoring per sviluppatori junior, conducendo code review e sessioni tecniche su vari argomenti per migliorare le competenze del team.
