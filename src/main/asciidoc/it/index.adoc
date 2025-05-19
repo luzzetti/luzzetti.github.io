@@ -28,7 +28,11 @@ include::../shared/uris.adoc[]
 :leveloffset: +1
 
 ifdef::backend-html5[]
-[.small]#Scarica la versione breve di questo CV link:CV_Christian_Luzzetti_ita.pdf[da qui], o la versione completa link:CV_Christian_Luzzetti_Long_ita.pdf[da qui]#
+
+.Note
+* [.small]#link:https://luzzetti.github.io/site/en/index.html[English version]#
+* [.small]#Scarica la versione breve di questo CV in .pdf link:CV_Christian_Luzzetti_ita.pdf[da qui], o la versione completa link:CV_Christian_Luzzetti_Long_ita.pdf[da qui]# +
+
 endif::[]
 
 ifdef::backend-pdf[]
