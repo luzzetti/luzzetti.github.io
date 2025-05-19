@@ -29,9 +29,8 @@ include::../shared/uris.adoc[]
 
 ifdef::backend-html5[]
 
-.Note
-* [.small]#link:https://luzzetti.github.io/site/en/index.html[English version]#
-* [.small]#Scarica la versione breve di questo CV in .pdf link:CV_Christian_Luzzetti_ita.pdf[da qui], o la versione completa link:CV_Christian_Luzzetti_Long_ita.pdf[da qui]# +
+* [.small]#read it in link:https://luzzetti.github.io/site/en/index.html[English]#
+* [.small]#Scarica la versione HR-friendly di questo CV  link:CV_Christian_Luzzetti_ita.pdf[da qui], o la versione completa link:CV_Christian_Luzzetti_Long_ita.pdf[da qui]# +
 
 endif::[]
 
