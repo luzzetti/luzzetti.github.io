@@ -24,9 +24,10 @@ icon:bookmark[] {url-form-oracle-javaEE7-certification-verify}[Developing Applic
 [[academic-background]]
 == Academic Background
 
-// Bachelor's Degree in Computer Science::
-// icon:calendar[] `2023 - Ongoing` +
-// icon:university[] {url-universita-pegaso}[{universita-pegaso}] +
+Bachelor's Degree in Computer Science::
+icon:calendar[] `2023 - 2025` +
+icon:university[] {url-universita-pegaso}[{universita-pegaso}] +
+[.small]#Graduation grade: 101 on 110# +
 
 Bachelor's Degree in Computer Science::
 icon:calendar[] `2010 - Withdraw` +

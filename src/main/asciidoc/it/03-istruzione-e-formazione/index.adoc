@@ -26,8 +26,9 @@ icon:bookmark[] {url-form-oracle-javaEE7-certification-verify}[Developing Applic
 == Background Accademico
 
 Corso di Laurea in Informatica - Classe L-31::
-icon:calendar[] `2023 - In Corso` +
+icon:calendar[] `2023 - 2025` +
 icon:university[] {url-universita-pegaso}[{universita-pegaso}] +
+[.small]#Voto di laurea: 101 su 110# +
 
 Corso di Laurea in Informatica - Classe L-31::
 icon:calendar[] `2010 - Non Conseguita` +
